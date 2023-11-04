@@ -1,4 +1,4 @@
-RR#  ANDROID-ADB-TERMUX-TOOLS
+#  ANDROID-ADB-TERMUX-TOOLS
 
 recovery install all Android devices
 
