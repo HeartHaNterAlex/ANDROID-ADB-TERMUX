@@ -4,7 +4,7 @@ recovery install all Android devices
 
 
 
-
+# install adb tool link 
 
 $ git clone https://github.com/HeartHaNterAlex/ANDROID-ADB-TERMUX
 
@@ -18,7 +18,7 @@ $ cd ANDROID-ADB-TERMUX
 OFRP - OrangeFox Recovery 
 
 SHRP - SkyHawk Recovery Project
-# README.md
+ 
 PBRP - PitchBlack Recovery Project
 
 RWRP - RedWolf Recovery Project.
@@ -26,6 +26,7 @@ RWRP - RedWolf Recovery Project.
 AND  - twrp Recovery Project
 
 
+#RUN
 
 
 # [_ComMenTs_]
