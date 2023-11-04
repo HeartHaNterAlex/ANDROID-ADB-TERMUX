@@ -13,7 +13,7 @@ recovery install all Android devices
 
 
 
-#     [-EXAMPLE-]
+#[-EXAMPLE-]
 
 OFRP - OrangeFox Recovery 
 
