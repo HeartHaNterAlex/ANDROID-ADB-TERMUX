@@ -31,6 +31,11 @@ termux-adb shell
 
 reboot bootloader
 
+
+
+# phone [-OFF-USE-] comments 
+
+
 termux-fastboot flash recovery    
 
 termux-fastboot boot
