@@ -1,12 +1,12 @@
-#ANDROID-ADB-TERMUX-TOOLS
+#  ANDROID-ADB-TERMUX-TOOLS
 
 recovery install all Android devices
 
-#ALL RECOVERY INSTALL
+#  ALL RECOVERY INSTALL
 
 
 
-#[-EXAMPLE-]
+#     [-EXAMPLE-]
 
 OFRP - OrangeFox Recovery 
 
@@ -21,19 +21,19 @@ AND  - twrp Recovery Project
 
 
 
-#[_ComMenTs_]
+#   [_ComMenTs_]
 
-#   bash alex.sh
+bash alex.sh
 
-#   termux-adb devices
+termux-adb devices
 
-#   termux-adb shell
+termux-adb shell
 
-#   reboot bootloader
+reboot bootloader
 
-#   termux-fastboot flash recovery    
+termux-fastboot flash recovery    
 
-#    termux-fastboot boot
+termux-fastboot boot
 
 
 FACEBOOK ID 
