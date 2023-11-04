@@ -30,7 +30,7 @@ AND  - twrp Recovery Project
 
 # [_ComMenTs_]
 
-"$ bash alex.sh"
+" $ bash alex.sh "
 
 "$termux-adb devices"
 
