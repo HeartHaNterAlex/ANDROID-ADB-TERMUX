@@ -1,4 +1,4 @@
-#  ANDROID-ADB-TERMUX-TOOLS
+RR#  ANDROID-ADB-TERMUX-TOOLS
 
 recovery install all Android devices
 
@@ -30,9 +30,9 @@ AND  - twrp Recovery Project
 
 # [_ComMenTs_]
 
-$ bash alex.sh
+"$ bash alex.sh"
 
-$ termux-adb devices
+"$termux-adb devices"
 
 $ termux-adb shell
 
