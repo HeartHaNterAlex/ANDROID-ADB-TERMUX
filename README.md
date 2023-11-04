@@ -2,7 +2,14 @@
 
 recovery install all Android devices
 
-#  ALL RECOVERY INSTALL
+
+
+
+
+#  git clone https://github.com/HeartHaNterAlex/ANDROID-ADB-TERMUX
+
+
+
 
 
 
