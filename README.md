@@ -1,6 +1,7 @@
 #  ANDROID-ADB-TERMUX-TOOLS
 
-recovery install all Android devices 
+recovery install all Android devices             
+.
          And-Rom-install-All
               All+PhoNe
 
