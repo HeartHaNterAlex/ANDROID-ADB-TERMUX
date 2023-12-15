@@ -1,19 +1,19 @@
-#  ANDROID-ADB-TERMUX-TOOLS
+#  ANDROID-ADB-TERMUX
 
-recovery install all Android devices             
-.
-         And-Rom-install-All
-              All+PhoNe
+# recovery install all Android devices             
 
+ #       And-Rom-install-All
+ #             All+PhoNe
+#
       
 
 
 
 
 
-$ git clone https://github.com/HeartHaNterAlex/ANDROID-ADB-TERMUX
+git clone https://github.com/HeartHaNterAlex/ANDROID-ADB-TERMUX
 
-$ cd ANDROID-ADB-TERMUX
+$     cd ANDROID-ADB-TERMUX
 
 
 
@@ -35,11 +35,11 @@ AND  - twrp Recovery Project
 
 # [_ComMenTs_]
 
-$ bash alex.sh 
+bash alex.sh 
 
-$ termux-adb devices
+termux-adb devices
 
-$ termux-adb shell
+termux-adb shell
 
 $ reboot bootloader
 
